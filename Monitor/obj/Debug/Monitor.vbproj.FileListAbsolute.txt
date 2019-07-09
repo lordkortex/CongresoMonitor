@@ -1,0 +1,19 @@
+C:\Users\CortesMoncada\Documents\visual studio 2012\Projects\Monitor\Monitor\bin\Monitor.dll
+C:\Users\CortesMoncada\Documents\visual studio 2012\Projects\Monitor\Monitor\bin\Monitor.pdb
+C:\Users\CortesMoncada\Documents\visual studio 2012\Projects\Monitor\Monitor\bin\Monitor.xml
+C:\Users\CortesMoncada\Documents\visual studio 2012\Projects\Monitor\Monitor\bin\itextsharp.dll
+C:\Users\CortesMoncada\Documents\visual studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.Resources.resources
+C:\Users\CortesMoncada\Documents\visual studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.vbproj.GenerateResource.Cache
+C:\Users\CortesMoncada\Documents\visual studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.dll
+C:\Users\CortesMoncada\Documents\visual studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.xml
+C:\Users\CortesMoncada\Documents\visual studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.pdb
+E:\archivos cortes moncada\mis documentos\Visual Studio 2012\Projects\Monitor\Monitor\bin\Monitor.dll
+E:\archivos cortes moncada\mis documentos\Visual Studio 2012\Projects\Monitor\Monitor\bin\Monitor.pdb
+E:\archivos cortes moncada\mis documentos\Visual Studio 2012\Projects\Monitor\Monitor\bin\Monitor.xml
+E:\archivos cortes moncada\mis documentos\Visual Studio 2012\Projects\Monitor\Monitor\bin\MySql.Data.dll
+E:\archivos cortes moncada\mis documentos\Visual Studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.Resources.resources
+E:\archivos cortes moncada\mis documentos\Visual Studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.vbproj.GenerateResource.Cache
+E:\archivos cortes moncada\mis documentos\Visual Studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.dll
+E:\archivos cortes moncada\mis documentos\Visual Studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.xml
+E:\archivos cortes moncada\mis documentos\Visual Studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.pdb
+E:\archivos cortes moncada\mis documentos\Visual Studio 2012\Projects\Monitor\Monitor\obj\Debug\Monitor.vbprojResolveAssemblyReference.cache

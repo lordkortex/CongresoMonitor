@@ -1,0 +1,1521 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Monitor
+</name>
+</assembly>
+<members>
+<member name="F:Monitor.ConfPalabrasClaves.LiteralEncabezadopalabra_clave">
+	<summary>
+LiteralEncabezadopalabra_clave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPalabrasClaves.BtnCrearpalabra_clave">
+	<summary>
+BtnCrearpalabra_clave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPalabrasClaves.lblEncabezadopalabra_clave">
+	<summary>
+lblEncabezadopalabra_clave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPalabrasClaves.Labelpalabra_clave">
+	<summary>
+Labelpalabra_clave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPalabrasClaves.TextBoxpalabra_clave_a">
+	<summary>
+TextBoxpalabra_clave_a control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPalabrasClaves.TextBoxpalabra_clave_b">
+	<summary>
+TextBoxpalabra_clave_b control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPalabrasClaves.TextBoxpalabra_clave_c">
+	<summary>
+TextBoxpalabra_clave_c control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPalabrasClaves.LiteralMensajepalabra_clave">
+	<summary>
+LiteralMensajepalabra_clave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPalabrasClaves.BtnActualizarpalabra_claveModal">
+	<summary>
+BtnActualizarpalabra_claveModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPalabrasClaves.BtnCrearpalabra_claveModal">
+	<summary>
+BtnCrearpalabra_claveModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPalabrasClaves.GridViewpalabra_claveList">
+	<summary>
+GridViewpalabra_claveList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteIntervenciones.LiteralEncabezadosesiones">
+	<summary>
+LiteralEncabezadosesiones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteIntervenciones.lblEncabezadosesiones">
+	<summary>
+lblEncabezadosesiones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteIntervenciones.Labelsesiones">
+	<summary>
+Labelsesiones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteIntervenciones.TextBoxIntervencion">
+	<summary>
+TextBoxIntervencion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteIntervenciones.LiteralMensajesesiones">
+	<summary>
+LiteralMensajesesiones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteIntervenciones.BtnActualizarsesionesModal">
+	<summary>
+BtnActualizarsesionesModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteIntervenciones.BtnCrearsesionesModal">
+	<summary>
+BtnCrearsesionesModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteIntervenciones.GridViewIntervencionesList">
+	<summary>
+GridViewIntervencionesList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.LiteralEncabezadocomision_dictaminadora">
+	<summary>
+LiteralEncabezadocomision_dictaminadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.BtnCrearcomision_dictaminadora">
+	<summary>
+BtnCrearcomision_dictaminadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.lblEncabezadocomision_dictaminadora">
+	<summary>
+lblEncabezadocomision_dictaminadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.Labelcomision_dictaminadora">
+	<summary>
+Labelcomision_dictaminadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.TextBoxcomision_dictaminadora">
+	<summary>
+TextBoxcomision_dictaminadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.TextBoxcomision_dictaminadora_corta">
+	<summary>
+TextBoxcomision_dictaminadora_corta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.TextBoxcomision_dictaminadora_larga">
+	<summary>
+TextBoxcomision_dictaminadora_larga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.TextBoxcomision_dictaminadora_imagen">
+	<summary>
+TextBoxcomision_dictaminadora_imagen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.chkActivo">
+	<summary>
+chkActivo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.LiteralMensajecomision_dictaminadora">
+	<summary>
+LiteralMensajecomision_dictaminadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.BtnActualizarcomision_dictaminadoraModal">
+	<summary>
+BtnActualizarcomision_dictaminadoraModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.BtnCrearcomision_dictaminadoraModal">
+	<summary>
+BtnCrearcomision_dictaminadoraModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.GridViewcomision_dictaminadoraList">
+	<summary>
+GridViewcomision_dictaminadoraList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.Literal1">
+	<summary>
+Literal1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.DropDownListDiputado">
+	<summary>
+DropDownListDiputado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.Literal2">
+	<summary>
+Literal2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.BtnAgregarDiputadoModal">
+	<summary>
+BtnAgregarDiputadoModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.lblEncabezadoDiputadosPorComision">
+	<summary>
+lblEncabezadoDiputadosPorComision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfComisionesDictaminadoras.GridViewDiputados">
+	<summary>
+GridViewDiputados control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.LiteralEncabezadopartido">
+	<summary>
+LiteralEncabezadopartido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.BtnCrearpartido">
+	<summary>
+BtnCrearpartido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.lblEncabezadopartido">
+	<summary>
+lblEncabezadopartido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.Labelpartido">
+	<summary>
+Labelpartido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.TextBoxpartido">
+	<summary>
+TextBoxpartido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.TextBoxpartidoImagen">
+	<summary>
+TextBoxpartidoImagen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.TextBoxpartidoDescCorta">
+	<summary>
+TextBoxpartidoDescCorta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.TextBoxpartidoDescLarga">
+	<summary>
+TextBoxpartidoDescLarga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.chkActivo">
+	<summary>
+chkActivo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.LiteralMensajepartido">
+	<summary>
+LiteralMensajepartido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.BtnActualizarpartidoModal">
+	<summary>
+BtnActualizarpartidoModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.BtnCrearpartidoModal">
+	<summary>
+BtnCrearpartidoModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfPartidos.GridViewpartidoList">
+	<summary>
+GridViewpartidoList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Monitor.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Monitor.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Monitor.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Monitor.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Monitor.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Monitor.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Monitor.ConfEmpresas.LiteralEncabezadoempresa">
+	<summary>
+LiteralEncabezadoempresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfEmpresas.BtnCrearempresa">
+	<summary>
+BtnCrearempresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfEmpresas.lblEncabezadoempresa">
+	<summary>
+lblEncabezadoempresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfEmpresas.Labelempresa">
+	<summary>
+Labelempresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfEmpresas.TextBoxempresa">
+	<summary>
+TextBoxempresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfEmpresas.LiteralMensajeempresa">
+	<summary>
+LiteralMensajeempresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfEmpresas.BtnActualizarempresaModal">
+	<summary>
+BtnActualizarempresaModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfEmpresas.BtnCrearempresaModal">
+	<summary>
+BtnCrearempresaModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfEmpresas.GridViewempresaList">
+	<summary>
+GridViewempresaList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.LiteralEncabezadousuario">
+	<summary>
+LiteralEncabezadousuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.BtnCrearusuario">
+	<summary>
+BtnCrearusuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.lblEncabezadousuario">
+	<summary>
+lblEncabezadousuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.Labelusuario">
+	<summary>
+Labelusuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.TextBoxusuario">
+	<summary>
+TextBoxusuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.TextBoxcontrasena">
+	<summary>
+TextBoxcontrasena control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.TextBoxfecha_expiracion">
+	<summary>
+TextBoxfecha_expiracion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.TextBoxemail">
+	<summary>
+TextBoxemail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.TextBoxPerfil">
+	<summary>
+TextBoxPerfil control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.TextBoxDevice">
+	<summary>
+TextBoxDevice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.DropDownListEmpresa">
+	<summary>
+DropDownListEmpresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.LiteralMensajeusuario">
+	<summary>
+LiteralMensajeusuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.BtnActualizarusuarioModal">
+	<summary>
+BtnActualizarusuarioModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.BtnCrearusuarioModal">
+	<summary>
+BtnCrearusuarioModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.GridViewusuarioList">
+	<summary>
+GridViewusuarioList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.Literal1">
+	<summary>
+Literal1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.TextBoxPalabraClaveA">
+	<summary>
+TextBoxPalabraClaveA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.TextBoxPalabraClaveB">
+	<summary>
+TextBoxPalabraClaveB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.TextBoxPalabraClaveC">
+	<summary>
+TextBoxPalabraClaveC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.Literal2">
+	<summary>
+Literal2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.BtnActualizarPalabraClaveModal">
+	<summary>
+BtnActualizarPalabraClaveModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.BtnCrearPalabraClaveModal">
+	<summary>
+BtnCrearPalabraClaveModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.litHeaderTablaPalabras">
+	<summary>
+litHeaderTablaPalabras control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfUsuarios.GridViewpalabra_clave">
+	<summary>
+GridViewpalabra_clave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Monitor.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Monitor.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Monitor.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:Monitor.ReportesSessiones.LiteralEncabezadosesiones">
+	<summary>
+LiteralEncabezadosesiones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.BtnCrearsesiones">
+	<summary>
+BtnCrearsesiones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.lblEncabezadosesiones">
+	<summary>
+lblEncabezadosesiones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.Labelsesiones">
+	<summary>
+Labelsesiones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.TextBoxsesiones">
+	<summary>
+TextBoxsesiones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.TextBoxsesiones_corta">
+	<summary>
+TextBoxsesiones_corta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.TextBoxsesiones_larga">
+	<summary>
+TextBoxsesiones_larga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.TextBoxsesiones_fecha">
+	<summary>
+TextBoxsesiones_fecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.LiteralMensajesesiones">
+	<summary>
+LiteralMensajesesiones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.BtnActualizarsesionesModal">
+	<summary>
+BtnActualizarsesionesModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.BtnCrearsesionesModal">
+	<summary>
+BtnCrearsesionesModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReportesSessiones.GridViewsesionesList">
+	<summary>
+GridViewsesionesList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.SiteMonitor.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.SiteMonitor.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.SiteMonitor.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.SiteMonitor.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.LiteralEncabezadoproyectos">
+	<summary>
+LiteralEncabezadoproyectos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.lblEncabezadoproyectos">
+	<summary>
+lblEncabezadoproyectos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.Labelproyectos">
+	<summary>
+Labelproyectos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.TextBoxActoLegislativo">
+	<summary>
+TextBoxActoLegislativo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.TextBoxDescripcion">
+	<summary>
+TextBoxDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.DropDownListTipoActo">
+	<summary>
+DropDownListTipoActo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.UpdatePanel2">
+	<summary>
+UpdatePanel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.DropDownListPartido">
+	<summary>
+DropDownListPartido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.UpdatePanel3">
+	<summary>
+UpdatePanel3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.DropDownListStatus">
+	<summary>
+DropDownListStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.UpdatePanel4">
+	<summary>
+UpdatePanel4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.DropDownListProponente">
+	<summary>
+DropDownListProponente control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.UpdatePanel5">
+	<summary>
+UpdatePanel5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.DropDownListComision">
+	<summary>
+DropDownListComision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.TextBoxFecha">
+	<summary>
+TextBoxFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.LiteralMensajeproyectos">
+	<summary>
+LiteralMensajeproyectos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.BtnActualizarproyectosModal">
+	<summary>
+BtnActualizarproyectosModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.BtnCrearproyectosModal">
+	<summary>
+BtnCrearproyectosModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ReporteProyectos.GridViewActosLegislativos">
+	<summary>
+GridViewActosLegislativos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDebates.LiteralEncabezadotipo_debate">
+	<summary>
+LiteralEncabezadotipo_debate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDebates.BtnCreartipo_debate">
+	<summary>
+BtnCreartipo_debate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDebates.lblEncabezadotipo_debate">
+	<summary>
+lblEncabezadotipo_debate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDebates.Labeltipo_debate">
+	<summary>
+Labeltipo_debate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDebates.TextBoxtipo_debate">
+	<summary>
+TextBoxtipo_debate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDebates.LiteralMensajetipo_debate">
+	<summary>
+LiteralMensajetipo_debate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDebates.BtnActualizartipo_debateModal">
+	<summary>
+BtnActualizartipo_debateModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDebates.BtnCreartipo_debateModal">
+	<summary>
+BtnCreartipo_debateModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDebates.GridViewtipo_debateList">
+	<summary>
+GridViewtipo_debateList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.LiteralEncabezadodiputado">
+	<summary>
+LiteralEncabezadodiputado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.BtnCreardiputado">
+	<summary>
+BtnCreardiputado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.lblEncabezadodiputado">
+	<summary>
+lblEncabezadodiputado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.Labeldiputado">
+	<summary>
+Labeldiputado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.TextBoxdiputado">
+	<summary>
+TextBoxdiputado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.DropDownListPartido">
+	<summary>
+DropDownListPartido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.TextBoxImagen">
+	<summary>
+TextBoxImagen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.TextBoxDescCorta">
+	<summary>
+TextBoxDescCorta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.TextBoxDescLarga">
+	<summary>
+TextBoxDescLarga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.chkActivo">
+	<summary>
+chkActivo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.LiteralMensajediputado">
+	<summary>
+LiteralMensajediputado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.BtnActualizardiputadoModal">
+	<summary>
+BtnActualizardiputadoModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.BtnCreardiputadoModal">
+	<summary>
+BtnCreardiputadoModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfDiputados.GridViewdiputadoList">
+	<summary>
+GridViewdiputadoList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Conflegislaciones.LiteralEncabezadolegislacion">
+	<summary>
+LiteralEncabezadolegislacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Conflegislaciones.BtnCrearlegislacion">
+	<summary>
+BtnCrearlegislacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Conflegislaciones.lblEncabezadolegislacion">
+	<summary>
+lblEncabezadolegislacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Conflegislaciones.Labellegislacion">
+	<summary>
+Labellegislacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Conflegislaciones.TextBoxlegislacion">
+	<summary>
+TextBoxlegislacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Conflegislaciones.LiteralMensajelegislacion">
+	<summary>
+LiteralMensajelegislacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Conflegislaciones.BtnActualizarlegislacionModal">
+	<summary>
+BtnActualizarlegislacionModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Conflegislaciones.BtnCrearlegislacionModal">
+	<summary>
+BtnCrearlegislacionModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Conflegislaciones.GridViewlegislacionList">
+	<summary>
+GridViewlegislacionList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor._Default.txtEnvio">
+	<summary>
+txtEnvio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor._Default.BtnEnvio">
+	<summary>
+BtnEnvio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Login.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Login.lblmensaje">
+	<summary>
+lblmensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Login.txtLoginUser">
+	<summary>
+txtLoginUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Login.txtLoginPassword">
+	<summary>
+txtLoginPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.Login.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfStatus.LiteralEncabezadostatus">
+	<summary>
+LiteralEncabezadostatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfStatus.BtnCrearstatus">
+	<summary>
+BtnCrearstatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfStatus.lblEncabezadostatus">
+	<summary>
+lblEncabezadostatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfStatus.Labelstatus">
+	<summary>
+Labelstatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfStatus.TextBoxstatus">
+	<summary>
+TextBoxstatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfStatus.LiteralMensajestatus">
+	<summary>
+LiteralMensajestatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfStatus.BtnActualizarstatusModal">
+	<summary>
+BtnActualizarstatusModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfStatus.BtnCrearstatusModal">
+	<summary>
+BtnCrearstatusModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfStatus.GridViewstatusList">
+	<summary>
+GridViewstatusList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfTipoCargos.LiteralEncabezadotipo_cargo">
+	<summary>
+LiteralEncabezadotipo_cargo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfTipoCargos.BtnCreartipo_cargo">
+	<summary>
+BtnCreartipo_cargo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfTipoCargos.lblEncabezadotipo_cargo">
+	<summary>
+lblEncabezadotipo_cargo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfTipoCargos.Labeltipo_cargo">
+	<summary>
+Labeltipo_cargo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfTipoCargos.TextBoxtipo_cargo">
+	<summary>
+TextBoxtipo_cargo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfTipoCargos.LiteralMensajetipo_cargo">
+	<summary>
+LiteralMensajetipo_cargo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfTipoCargos.BtnActualizartipo_cargoModal">
+	<summary>
+BtnActualizartipo_cargoModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfTipoCargos.BtnCreartipo_cargoModal">
+	<summary>
+BtnCreartipo_cargoModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Monitor.ConfTipoCargos.GridViewtipo_cargoList">
+	<summary>
+GridViewtipo_cargoList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
